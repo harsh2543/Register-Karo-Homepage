@@ -59,7 +59,7 @@ const Hero = styled.section`
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #fff;
+  color: #555;
   text-align: center;
 `;
 
@@ -72,7 +72,7 @@ const HeroButton = styled.a`
   margin-top: 20px;
   padding: 10px 20px;
   background-color: #ff6200;
-  color: #fff;
+  color: #555;
   text-decoration: none;
   border-radius: 5px;
   font-size: 18px;
